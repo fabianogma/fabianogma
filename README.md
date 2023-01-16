@@ -2,7 +2,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/fasilv/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fabianogma@gmail.com)
 
-<img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" min-width="300px" max-width="300px" width="300px" align="right" alt="Coding">
+<img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" min-width="400px" max-width="400px" width="400px" height="400" align="right" alt="Coding">
  
 # 🤓 Sobre mim
 
