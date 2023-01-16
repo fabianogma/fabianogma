@@ -4,7 +4,9 @@
 
 # 🤓 Sobre mim
 
-<img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" min-width="300px" max-width="300px" width="300px" align="right" alt="Coding">
+<p align="right">
+  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" min-width="300px" max-width="300px" width="300px" align="right" alt="Coding">
+</p>
 
 <p align="justify">
   Sou formado em Ciência da Computação pela Universidade Anhembi Morumbi! Comecei a atuar técnicamente à 6 meses, sendo dedicado a migração de infraestrutura para Azure, meu foco anterior era atuando comercialmente com tecnologias Microsoft. Tenho 31, pretendo continuar meu desenvolvimento profissional atuando técnicamente com cloud.
