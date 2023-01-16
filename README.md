@@ -2,11 +2,9 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/fasilv/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fabianogma@gmail.com)
 
+<img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" min-width="300px" max-width="300px" width="300px" align="right" alt="Coding">
+ 
 # 🤓 Sobre mim
-
-<p align="right">
-  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" min-width="300px" max-width="300px" width="300px" align="right" alt="Coding">
-</p>
 
 <p align="justify">
   Sou formado em Ciência da Computação pela Universidade Anhembi Morumbi! Comecei a atuar técnicamente à 6 meses, sendo dedicado a migração de infraestrutura para Azure, meu foco anterior era atuando comercialmente com tecnologias Microsoft. Tenho 31, pretendo continuar meu desenvolvimento profissional atuando técnicamente com cloud.
@@ -16,7 +14,6 @@
 <div>
   <a href="https://github.com/fabianogma">
   <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fabianogma&count_private=true&show_icons=true&theme=solarized-dark&include_all_commits=true&locale=pt-br"/>
-  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fabianogma&count_private=true&show_icons=true&theme=solarized-dark&layout=compact&hide=less,hack&locale=pt-br" />
 </div>
 
 # 🏆 Certificações
