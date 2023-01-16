@@ -6,7 +6,9 @@
 
 # 🤓 Sobre mim
 
+<p align="left">
   Sou formado em Ciência da Computação pela Universidade Anhembi Morumbi! Comecei a atuar técnicamente à 6 meses, sendo dedicado a migração de infraestrutura para Azure, meu foco anterior era atuando comercialmente com tecnologias Microsoft. Tenho 31, pretendo continuar meu desenvolvimento profissional atuando técnicamente com cloud.
+</p>
 
 # 📈 Minhas atividades no Github
 <div>
