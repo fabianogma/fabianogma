@@ -1,4 +1,4 @@
-<img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 # Olá! Sou o Fabiano Silva 👋
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/fasilv/)
