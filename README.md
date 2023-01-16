@@ -8,7 +8,7 @@
 # 📈 Minhas atividades no Github
 <div>
   <a href="https://github.com/fabianogma">
-  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fabianogma&count_private=true&show_icons=true&github_darkk&include_all_commits=true&locale=pt-br"/>
+  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fabianogma&count_private=true&show_icons=true&theme=github_darkk&include_all_commits=true&locale=pt-br"/>
   <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fabianogma&count_private=true&show_icons=true&theme=github_dark&layout=compact&hide=less,hack&locale=pt-br" />
 </div>
 
