@@ -1,5 +1,6 @@
 # Olá! Sou o Fabiano Silva 👋
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/fasilv/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fabianogma@gmail.com)
 
 # 🤓 Sobre mim
 
@@ -10,7 +11,6 @@
   <a href="https://github.com/fabianogma">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fabianogma&show_icons=true&theme=solarized-dark"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianogma&langs_count=10&layout=compact&theme=solarized-dark" />
-  </a>
 </div>
 
 # 🏆 Certificações
